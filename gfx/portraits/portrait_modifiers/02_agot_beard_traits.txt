@@ -1,0 +1,1212 @@
+﻿historical_characters_beard_accessories = {
+	usage = game
+	selection_behavior = max
+	priority = 2
+
+	trait_empty = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = beards
+				template = no_beard
+				value = 0
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = beard_trait_no_beard
+				age > 4
+			}
+		}
+	}
+	trait_male_beard_western_01 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = beards
+				template = all_beards
+				accessory = male_beard_western_01
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = beard_trait_male_beard_western_01
+				age > 4
+			}
+		}
+	}
+	trait_male_beard_western_02 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = beards
+				template = all_beards
+				accessory = male_beard_western_02
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = beard_trait_male_beard_western_02
+				age > 4
+			}
+		}
+	}
+	trait_male_beard_western_03 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = beards
+				template = all_beards
+				accessory = male_beard_western_03
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = beard_trait_male_beard_western_03
+				age > 4
+			}
+		}
+	}
+	trait_male_beard_western_04 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = beards
+				template = all_beards
+				accessory = male_beard_western_04
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = beard_trait_male_beard_western_04
+				age > 4
+			}
+		}
+	}
+	trait_male_beard_western_05 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = beards
+				template = all_beards
+				accessory = male_beard_western_05
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = beard_trait_male_beard_western_05
+				age > 4
+			}
+		}
+	}
+	trait_male_beard_western_06 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = beards
+				template = all_beards
+				accessory = male_beard_western_06
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = beard_trait_male_beard_western_06
+				age > 4
+			}
+		}
+	}
+	trait_male_beard_western_07 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = beards
+				template = all_beards
+				accessory = male_beard_western_07
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = beard_trait_male_beard_western_07
+				age > 4
+			}
+		}
+	}
+	trait_male_beard_western_08 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = beards
+				template = all_beards
+				accessory = male_beard_western_08
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = beard_trait_male_beard_western_08
+				age > 4
+			}
+		}
+	}
+	trait_male_beard_western_09 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = beards
+				template = all_beards
+				accessory = male_beard_western_09
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = beard_trait_male_beard_western_09
+				age > 4
+			}
+		}
+	}
+	trait_male_beard_western_10 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = beards
+				template = all_beards
+				accessory = male_beard_western_10
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = beard_trait_male_beard_western_10
+				age > 4
+			}
+		}
+	}
+	trait_male_beard_mena_01 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = beards
+				template = all_beards
+				accessory = male_beard_mena_01
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = beard_trait_male_beard_mena_01
+				age > 4
+			}
+		}
+	}
+	trait_male_beard_mena_02 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = beards
+				template = all_beards
+				accessory = male_beard_mena_02
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = beard_trait_male_beard_mena_02
+				age > 4
+			}
+		}
+	}
+	trait_male_beard_mena_03 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = beards
+				template = all_beards
+				accessory = male_beard_mena_03
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = beard_trait_male_beard_mena_03
+				age > 4
+			}
+		}
+	}
+	trait_male_beard_mena_04 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = beards
+				template = all_beards
+				accessory = male_beard_mena_04
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = beard_trait_male_beard_mena_04
+				age > 4
+			}
+		}
+	}
+	trait_male_beard_northern_01 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = beards
+				template = all_beards
+				accessory = male_beard_northern_01
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = beard_trait_male_beard_northern_01
+				age > 4
+			}
+		}
+	}
+	trait_male_beard_northern_02 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = beards
+				template = all_beards
+				accessory = male_beard_northern_02
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = beard_trait_male_beard_northern_02
+				age > 4
+			}
+		}
+	}
+	trait_male_beard_northern_03 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = beards
+				template = all_beards
+				accessory = male_beard_northern_03
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = beard_trait_male_beard_northern_03
+				age > 4
+			}
+		}
+	}
+	trait_male_beard_steppe_01 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = beards
+				template = all_beards
+				accessory = male_beard_steppe_01
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = beard_trait_male_beard_steppe_01
+				age > 4
+			}
+		}
+	}
+	trait_male_beard_steppe_02 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = beards
+				template = all_beards
+				accessory = male_beard_steppe_02
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = beard_trait_male_beard_steppe_02
+				age > 4
+			}
+		}
+	}
+	trait_male_beard_sub_saharan_01 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = beards
+				template = all_beards
+				accessory = male_beard_sub_saharan_01
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = beard_trait_male_beard_sub_saharan_01
+				age > 4
+			}
+		}
+	}
+	trait_male_beard_sub_saharan_02 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = beards
+				template = all_beards
+				accessory = male_beard_sub_saharan_02
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = beard_trait_male_beard_sub_saharan_02
+				age > 4
+			}
+		}
+	}
+	trait_male_beard_sub_saharan_03 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = beards
+				template = all_beards
+				accessory = male_beard_sub_saharan_03
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = beard_trait_male_beard_sub_saharan_03
+				age > 4
+			}
+		}
+	}
+	trait_male_beard_indian_01 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = beards
+				template = all_beards
+				accessory = male_beard_indian_01
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = beard_trait_male_beard_indian_01
+				age > 4
+			}
+		}
+	}
+	trait_male_beard_indian_02 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = beards
+				template = all_beards
+				accessory = male_beard_indian_02
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = beard_trait_male_beard_indian_02
+				age > 4
+			}
+		}
+	}
+	trait_male_beard_indian_03 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = beards
+				template = all_beards
+				accessory = male_beard_indian_03
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = beard_trait_male_beard_indian_03
+				age > 4
+			}
+		}
+	}
+	trait_male_beard_fp1_01 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = beards
+				template = all_beards
+				accessory = male_beard_fp1_01
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = beard_trait_male_beard_fp1_01
+				age > 4
+			}
+		}
+	}
+	trait_male_beard_fp1_02 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = beards
+				template = all_beards
+				accessory = male_beard_fp1_02
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = beard_trait_male_beard_fp1_02
+				age > 4
+			}
+		}
+	}
+	trait_male_beard_fp1_03 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = beards
+				template = all_beards
+				accessory = male_beard_fp1_03
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = beard_trait_male_beard_fp1_03
+				age > 4
+			}
+		}
+	}
+	trait_male_beard_fp1_04 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = beards
+				template = all_beards
+				accessory = male_beard_fp1_04
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = beard_trait_male_beard_fp1_04
+				age > 4
+			}
+		}
+	}
+	trait_male_beard_fp1_05 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = beards
+				template = all_beards
+				accessory = male_beard_fp1_05
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = beard_trait_male_beard_fp1_05
+				age > 4
+			}
+		}
+	}
+	trait_male_beard_fp2_iberian_christian_01 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = beards
+				template = all_beards
+				accessory = male_beard_fp2_iberian_christian_01
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = beard_trait_male_beard_fp2_iberian_christian_01
+				age > 4
+			}
+		}
+	}
+	trait_male_beard_fp2_iberian_christian_02 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = beards
+				template = all_beards
+				accessory = male_beard_fp2_iberian_christian_02
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = beard_trait_male_beard_fp2_iberian_christian_02
+				age > 4
+			}
+		}
+	}
+	trait_male_beard_fp2_iberian_christian_03 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = beards
+				template = all_beards
+				accessory = male_beard_fp2_iberian_christian_03
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = beard_trait_male_beard_fp2_iberian_christian_03
+				age > 4
+			}
+		}
+	}
+	trait_male_beard_fp2_iberian_christian_04 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = beards
+				template = all_beards
+				accessory = male_beard_fp2_iberian_christian_04
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = beard_trait_male_beard_fp2_iberian_christian_04
+				age > 4
+			}
+		}
+	}
+	trait_male_beard_fp2_iberian_muslim_01 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = beards
+				template = all_beards
+				accessory = male_beard_fp2_iberian_muslim_01
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = beard_trait_male_beard_fp2_iberian_muslim_01
+				age > 4
+			}
+		}
+	}
+	trait_male_beard_fp2_iberian_muslim_02 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = beards
+				template = all_beards
+				accessory = male_beard_fp2_iberian_muslim_02
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = beard_trait_male_beard_fp2_iberian_muslim_02
+				age > 4
+			}
+		}
+	}
+	trait_male_beard_fp2_iberian_muslim_03 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = beards
+				template = all_beards
+				accessory = male_beard_fp2_iberian_muslim_03
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = beard_trait_male_beard_fp2_iberian_muslim_03
+				age > 4
+			}
+		}
+	}
+	trait_m_beard_fp3_iranian_01 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = beards
+				template = all_beards
+				accessory = m_beard_fp3_iranian_01
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = beard_trait_m_beard_fp3_iranian_01
+				age > 4
+			}
+		}
+	}
+	trait_m_beard_fp3_iranian_02 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = beards
+				template = all_beards
+				accessory = m_beard_fp3_iranian_02
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = beard_trait_m_beard_fp3_iranian_02
+				age > 4
+			}
+		}
+	}
+	trait_m_beard_fp3_iranian_03 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = beards
+				template = all_beards
+				accessory = m_beard_fp3_iranian_03
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = beard_trait_m_beard_fp3_iranian_03
+				age > 4
+			}
+		}
+	}
+	trait_m_beard_ep2_western_01 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = beards
+				template = all_beards
+				accessory = m_beard_ep2_western_01
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = beard_trait_m_beard_ep2_western_01
+				age > 4
+			}
+		}
+	}
+	trait_m_beard_ep2_western_02 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = beards
+				template = all_beards
+				accessory = m_beard_ep2_western_02
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = beard_trait_m_beard_ep2_western_02
+				age > 4
+			}
+		}
+	}
+	trait_m_beard_ep2_western_03 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = beards
+				template = all_beards
+				accessory = m_beard_ep2_western_03
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = beard_trait_m_beard_ep2_western_03
+				age > 4
+			}
+		}
+	}
+	trait_m_beard_sp2_western_01 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = beards
+				template = all_beards
+				accessory = m_beard_sp2_western_01
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = beard_trait_m_beard_sp2_western_01
+				age > 4
+			}
+		}
+	}
+	trait_m_beard_sp3_western_01 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = beards
+				template = all_beards
+				accessory = m_beard_sp3_western_01
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = beard_trait_m_beard_sp3_western_01
+				age > 4
+			}
+		}
+	}
+	trait_m_beard_ep3_byzantine_01 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = beards
+				template = all_beards
+				accessory = m_beard_ep3_byzantine_01
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = beard_trait_m_beard_ep3_byzantine_01
+				age > 4
+			}
+		}
+	}
+	trait_m_beard_ep3_byzantine_02 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = beards
+				template = all_beards
+				accessory = m_beard_ep3_byzantine_02
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = beard_trait_m_beard_ep3_byzantine_02
+				age > 4
+			}
+		}
+	}
+	trait_m_beard_ep3_byzantine_03 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = beards
+				template = all_beards
+				accessory = m_beard_ep3_byzantine_03
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = beard_trait_m_beard_ep3_byzantine_03
+				age > 4
+			}
+		}
+	}
+	trait_m_beard_ep3_byzantine_04 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = beards
+				template = all_beards
+				accessory = m_beard_ep3_byzantine_04
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = beard_trait_m_beard_ep3_byzantine_04
+				age > 4
+			}
+		}
+	}
+	trait_m_beard_sp4_rus_01 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = beards
+				template = all_beards
+				accessory = m_beard_sp4_rus_01
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = beard_trait_m_beard_sp4_rus_01
+				age > 4
+			}
+		}
+	}
+	trait_m_beard_sp4_mena_01 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = beards
+				template = all_beards
+				accessory = m_beard_sp4_mena_01
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = beard_trait_m_beard_sp4_mena_01
+				age > 4
+			}
+		}
+	}
+	trait_m_beard_mpo_mongol_01 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = beards
+				template = all_beards
+				accessory = m_beard_mpo_mongol_01
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = beard_trait_m_beard_mpo_mongol_01
+				age > 4
+			}
+		}
+	}
+	trait_m_beard_mpo_mongol_02 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = beards
+				template = all_beards
+				accessory = m_beard_mpo_mongol_02
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = beard_trait_m_beard_mpo_mongol_02
+				age > 4
+			}
+		}
+	}
+	trait_m_beard_mpo_mongol_03 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = beards
+				template = all_beards
+				accessory = m_beard_mpo_mongol_03
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = beard_trait_m_beard_mpo_mongol_03
+				age > 4
+			}
+		}
+	}
+	trait_m_beard_tgp_japanese_01 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = beards
+				template = all_beards
+				accessory = m_beard_tgp_japanese_01
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = beard_trait_m_beard_tgp_japanese_01
+				age > 4
+			}
+		}
+	}
+	trait_m_beard_tgp_japanese_02 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = beards
+				template = all_beards
+				accessory = m_beard_tgp_japanese_02
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = beard_trait_m_beard_tgp_japanese_02
+				age > 4
+			}
+		}
+	}
+	trait_m_beard_tgp_chinese_01 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = beards
+				template = all_beards
+				accessory = m_beard_tgp_chinese_01
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = beard_trait_m_beard_tgp_chinese_01
+				age > 4
+			}
+		}
+	}
+	trait_m_beard_tgp_chinese_02 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = beards
+				template = all_beards
+				accessory = m_beard_tgp_chinese_02
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = beard_trait_m_beard_tgp_chinese_02
+				age > 4
+			}
+		}
+	}
+	trait_m_beard_tgp_chinese_03 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = beards
+				template = all_beards
+				accessory = m_beard_tgp_chinese_03
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = beard_trait_m_beard_tgp_chinese_03
+				age > 4
+			}
+		}
+	}
+	trait_m_beard_tgp_chinese_04 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = beards
+				template = all_beards
+				accessory = m_beard_tgp_chinese_04
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = beard_trait_m_beard_tgp_chinese_04
+				age > 4
+			}
+		}
+	}
+	trait_m_beard_tgp_chinese_05 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = beards
+				template = all_beards
+				accessory = m_beard_tgp_chinese_05
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = beard_trait_m_beard_tgp_chinese_05
+				age > 4
+			}
+		}
+	}
+	trait_m_beard_tgp_chinese_06 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = beards
+				template = all_beards
+				accessory = m_beard_tgp_chinese_06
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = beard_trait_m_beard_tgp_chinese_06
+				age > 4
+			}
+		}
+	}
+	trait_male_beard_rtt_01 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = beards
+				template = all_beards
+				accessory = male_beard_rtt_01
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = beard_trait_male_beard_rtt_01
+				age > 4
+			}
+		}
+	}
+	trait_beard_tywins_muttonchops = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = beards
+				template = all_beards
+				accessory = beard_tywins_muttonchops
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = beard_trait_beard_tywins_muttonchops
+				age > 4
+			}
+		}
+	}
+	trait_male_beard_western_10_pointy = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = beards
+				template = all_beards
+				accessory = male_beard_western_10_pointy
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = beard_trait_male_beard_western_10_pointy
+				age > 4
+			}
+		}
+	}
+	trait_male_agot_old_king_beard_01 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = beards
+				template = all_beards
+				accessory = male_agot_old_king_beard_01
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = beard_trait_male_agot_old_king_beard_01
+				age > 4
+			}
+		}
+	}
+}

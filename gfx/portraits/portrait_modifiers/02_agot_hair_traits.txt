@@ -1,0 +1,4498 @@
+﻿historical_characters_hair_accessories = {
+	usage = game
+	selection_behavior = max
+	priority = 2
+
+	trait_no_hairstyle = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = no_hairstyles
+				value = 0
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_no_hairstyles
+				age > 4
+			}
+		}
+	}
+	trait_male_hair_western_01 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = male_hair_western_01
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_male_hair_western_01
+				age > 4
+			}
+		}
+	}
+	trait_male_hair_western_02 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = male_hair_western_02
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_male_hair_western_02
+				age > 4
+			}
+		}
+	}
+	trait_male_hair_western_02_disease = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = male_hair_western_02_disease
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_male_hair_western_02_disease
+				age > 4
+			}
+		}
+	}
+	trait_male_hair_western_03 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = male_hair_western_03
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_male_hair_western_03
+				age > 4
+			}
+		}
+	}
+	trait_male_hair_western_03_disease = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = male_hair_western_03_disease
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_male_hair_western_03_disease
+				age > 4
+			}
+		}
+	}
+	trait_male_hair_western_04 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = male_hair_western_04
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_male_hair_western_04
+				age > 4
+			}
+		}
+	}
+	trait_male_hair_western_05 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = male_hair_western_05
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_male_hair_western_05
+				age > 4
+			}
+		}
+	}
+	trait_male_hair_western_06 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = male_hair_western_06
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_male_hair_western_06
+				age > 4
+			}
+		}
+	}
+	trait_male_hair_western_07 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = male_hair_western_07
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_male_hair_western_07
+				age > 4
+			}
+		}
+	}
+	trait_male_hair_western_07_disease = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = male_hair_western_07_disease
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_male_hair_western_07_disease
+				age > 4
+			}
+		}
+	}
+	trait_male_hair_western_08 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = male_hair_western_08
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_male_hair_western_08
+				age > 4
+			}
+		}
+	}
+	trait_male_hair_western_09 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = male_hair_western_09
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_male_hair_western_09
+				age > 4
+			}
+		}
+	}
+	trait_male_hair_western_09_disease = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = male_hair_western_09_disease
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_male_hair_western_09_disease
+				age > 4
+			}
+		}
+	}
+	trait_male_hair_western_10 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = male_hair_western_10
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_male_hair_western_10
+				age > 4
+			}
+		}
+	}
+	trait_male_hair_mena_01 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = male_hair_mena_01
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_male_hair_mena_01
+				age > 4
+			}
+		}
+	}
+	trait_male_hair_mena_02 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = male_hair_mena_02
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_male_hair_mena_02
+				age > 4
+			}
+		}
+	}
+	trait_male_hair_mena_03 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = male_hair_mena_03
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_male_hair_mena_03
+				age > 4
+			}
+		}
+	}
+	trait_male_hair_mena_04 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = male_hair_mena_04
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_male_hair_mena_04
+				age > 4
+			}
+		}
+	}
+	trait_male_hair_byzantine_01 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = male_hair_byzantine_01
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_male_hair_byzantine_01
+				age > 4
+			}
+		}
+	}
+	trait_male_hair_byzantine_02 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = male_hair_byzantine_02
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_male_hair_byzantine_02
+				age > 4
+			}
+		}
+	}
+	trait_male_hair_sub_saharan_01 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = male_hair_sub_saharan_01
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_male_hair_sub_saharan_01
+				age > 4
+			}
+		}
+	}
+	trait_male_hair_sub_saharan_01_disease = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = male_hair_sub_saharan_01_disease
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_male_hair_sub_saharan_01_disease
+				age > 4
+			}
+		}
+	}
+	trait_male_hair_sub_saharan_02 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = male_hair_sub_saharan_02
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_male_hair_sub_saharan_02
+				age > 4
+			}
+		}
+	}
+	trait_male_hair_sub_saharan_03 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = male_hair_sub_saharan_03
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_male_hair_sub_saharan_03
+				age > 4
+			}
+		}
+	}
+	trait_male_hair_rtt_01 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = male_hair_rtt_01
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_male_hair_rtt_01
+				age > 4
+			}
+		}
+	}
+	trait_male_hair_rtt_02 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = male_hair_rtt_02
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_male_hair_rtt_02
+				age > 4
+			}
+		}
+	}
+	trait_male_hair_indian_01 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = male_hair_indian_01
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_male_hair_indian_01
+				age > 4
+			}
+		}
+	}
+	trait_male_hair_indian_01_disease = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = male_hair_indian_01_disease
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_male_hair_indian_01_disease
+				age > 4
+			}
+		}
+	}
+	trait_male_hair_indian_02 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = male_hair_indian_02
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_male_hair_indian_02
+				age > 4
+			}
+		}
+	}
+	trait_male_hair_indian_03 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = male_hair_indian_03
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_male_hair_indian_03
+				age > 4
+			}
+		}
+	}
+	trait_male_hair_northern_01 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = male_hair_northern_01
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_male_hair_northern_01
+				age > 4
+			}
+		}
+	}
+	trait_male_hair_northern_02 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = male_hair_northern_02
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_male_hair_northern_02
+				age > 4
+			}
+		}
+	}
+	trait_male_hair_northern_03 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = male_hair_northern_03
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_male_hair_northern_03
+				age > 4
+			}
+		}
+	}
+	trait_male_hair_steppe_01 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = male_hair_steppe_01
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_male_hair_steppe_01
+				age > 4
+			}
+		}
+	}
+	trait_male_hair_steppe_02 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = male_hair_steppe_02
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_male_hair_steppe_02
+				age > 4
+			}
+		}
+	}
+	trait_male_hair_fp1_01 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = male_hair_fp1_01
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_male_hair_fp1_01
+				age > 4
+			}
+		}
+	}
+	trait_male_hair_fp1_02 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = male_hair_fp1_02
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_male_hair_fp1_02
+				age > 4
+			}
+		}
+	}
+	trait_male_hair_fp1_03 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = male_hair_fp1_03
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_male_hair_fp1_03
+				age > 4
+			}
+		}
+	}
+	trait_male_hair_fp1_04 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = male_hair_fp1_04
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_male_hair_fp1_04
+				age > 4
+			}
+		}
+	}
+	trait_male_hair_fp1_05 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = male_hair_fp1_05
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_male_hair_fp1_05
+				age > 4
+			}
+		}
+	}
+	trait_male_hair_fp1_06 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = male_hair_fp1_06
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_male_hair_fp1_06
+				age > 4
+			}
+		}
+	}
+	trait_male_hair_fp1_07 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = male_hair_fp1_07
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_male_hair_fp1_07
+				age > 4
+			}
+		}
+	}
+	trait_male_hair_fp1_08 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = male_hair_fp1_08
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_male_hair_fp1_08
+				age > 4
+			}
+		}
+	}
+	trait_male_hair_fp1_09 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = male_hair_fp1_09
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_male_hair_fp1_09
+				age > 4
+			}
+		}
+	}
+	trait_male_hair_fp2_iberian_muslim_01 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = male_hair_fp2_iberian_muslim_01
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_male_hair_fp2_iberian_muslim_01
+				age > 4
+			}
+		}
+	}
+	trait_male_hair_fp2_iberian_muslim_02 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = male_hair_fp2_iberian_muslim_02
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_male_hair_fp2_iberian_muslim_02
+				age > 4
+			}
+		}
+	}
+	trait_male_hair_fp2_iberian_muslim_03 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = male_hair_fp2_iberian_muslim_03
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_male_hair_fp2_iberian_muslim_03
+				age > 4
+			}
+		}
+	}
+	trait_male_hair_fp2_iberian_christian_01 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = male_hair_fp2_iberian_christian_01
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_male_hair_fp2_iberian_christian_01
+				age > 4
+			}
+		}
+	}
+	trait_male_hair_fp2_iberian_christian_02 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = male_hair_fp2_iberian_christian_02
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_male_hair_fp2_iberian_christian_02
+				age > 4
+			}
+		}
+	}
+	trait_male_hair_fp2_iberian_christian_03 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = male_hair_fp2_iberian_christian_03
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_male_hair_fp2_iberian_christian_03
+				age > 4
+			}
+		}
+	}
+	trait_m_hair_fp3_iranian_01 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = m_hair_fp3_iranian_01
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_m_hair_fp3_iranian_01
+				age > 4
+			}
+		}
+	}
+	trait_m_hair_fp3_iranian_02 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = m_hair_fp3_iranian_02
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_m_hair_fp3_iranian_02
+				age > 4
+			}
+		}
+	}
+	trait_m_hair_fp3_iranian_03 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = m_hair_fp3_iranian_03
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_m_hair_fp3_iranian_03
+				age > 4
+			}
+		}
+	}
+	trait_m_hair_ep2_western_01 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = m_hair_ep2_western_01
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_m_hair_ep2_western_01
+				age > 4
+			}
+		}
+	}
+	trait_m_hair_ep2_western_02 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = m_hair_ep2_western_02
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_m_hair_ep2_western_02
+				age > 4
+			}
+		}
+	}
+	trait_m_hair_ep3_byzantine_01 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = m_hair_ep3_byzantine_01
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_m_hair_ep3_byzantine_01
+				age > 4
+			}
+		}
+	}
+	trait_m_hair_ep3_byzantine_02 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = m_hair_ep3_byzantine_02
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_m_hair_ep3_byzantine_02
+				age > 4
+			}
+		}
+	}
+	trait_m_hair_ep3_byzantine_03 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = m_hair_ep3_byzantine_03
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_m_hair_ep3_byzantine_03
+				age > 4
+			}
+		}
+	}
+	trait_m_hair_ep3_byzantine_04 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = m_hair_ep3_byzantine_04
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_m_hair_ep3_byzantine_04
+				age > 4
+			}
+		}
+	}
+	trait_m_hair_sp4_western_01 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = m_hair_sp4_western_01
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_m_hair_sp4_western_01
+				age > 4
+			}
+		}
+	}
+	trait_m_hair_sp4_mena_01 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = m_hair_sp4_mena_01
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_m_hair_sp4_mena_01
+				age > 4
+			}
+		}
+	}
+	trait_m_hair_mpo_mongol_01 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = m_hair_mpo_mongol_01
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_m_hair_mpo_mongol_01
+				age > 4
+			}
+		}
+	}
+	trait_m_hair_mpo_mongol_02 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = m_hair_mpo_mongol_02
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_m_hair_mpo_mongol_02
+				age > 4
+			}
+		}
+	}
+	trait_m_hair_mpo_mongol_03 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = m_hair_mpo_mongol_03
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_m_hair_mpo_mongol_03
+				age > 4
+			}
+		}
+	}
+	trait_m_hair_tgp_chinese_01 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = m_hair_tgp_chinese_01
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_m_hair_tgp_chinese_01
+				age > 4
+			}
+		}
+	}
+	trait_m_hair_tgp_chinese_02 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = m_hair_tgp_chinese_02
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_m_hair_tgp_chinese_02
+				age > 4
+			}
+		}
+	}
+	trait_m_hair_tgp_chinese_03 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = m_hair_tgp_chinese_03
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_m_hair_tgp_chinese_03
+				age > 4
+			}
+		}
+	}
+	trait_m_hair_tgp_chinese_04 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = m_hair_tgp_chinese_04
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_m_hair_tgp_chinese_04
+				age > 4
+			}
+		}
+	}
+	trait_m_hair_tgp_chinese_04_bald = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = m_hair_tgp_chinese_04_bald
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_m_hair_tgp_chinese_04_bald
+				age > 4
+			}
+		}
+	}
+	trait_m_hair_tgp_chinese_02_bald = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = m_hair_tgp_chinese_02_bald
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_m_hair_tgp_chinese_02_bald
+				age > 4
+			}
+		}
+	}
+	trait_m_hair_tgp_japanese_01 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = m_hair_tgp_japanese_01
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_m_hair_tgp_japanese_01
+				age > 4
+			}
+		}
+	}
+	trait_m_hair_tgp_japanese_02 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = m_hair_tgp_japanese_02
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_m_hair_tgp_japanese_02
+				age > 4
+			}
+		}
+	}
+	trait_male_hair_western_baby_01 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = male_hair_western_baby_01
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_male_hair_western_baby_01
+				age > 4
+			}
+		}
+	}
+	trait_m_hair_sp3_western_01 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = m_hair_sp3_western_01
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_m_hair_sp3_western_01
+				age > 4
+			}
+		}
+	}
+	trait_male_hair_custom_01 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = agot_all_hairstyles
+				accessory = male_hair_custom_01
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_male_hair_custom_01
+				age > 4
+			}
+		}
+	}
+	trait_male_hair_custom_02 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = agot_all_hairstyles
+				accessory = male_hair_custom_02
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_male_hair_custom_02
+				age > 4
+			}
+		}
+	}
+	trait_male_hair_custom_03 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = agot_all_hairstyles
+				accessory = male_hair_custom_03
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_male_hair_custom_03
+				age > 4
+			}
+		}
+	}
+	trait_male_hair_custom_04 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = agot_all_hairstyles
+				accessory = male_hair_custom_04
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_male_hair_custom_04
+				age > 4
+			}
+		}
+	}
+	trait_male_hair_custom_05 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = agot_all_hairstyles
+				accessory = male_hair_custom_05
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_male_hair_custom_05
+				age > 4
+			}
+		}
+	}
+	trait_male_hair_custom_06 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = agot_all_hairstyles
+				accessory = male_hair_custom_06
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_male_hair_custom_06
+				age > 4
+			}
+		}
+	}
+	trait_male_hair_custom_07 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = agot_all_hairstyles
+				accessory = male_hair_custom_07
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_male_hair_custom_07
+				age > 4
+			}
+		}
+	}
+	trait_male_hair_custom_08 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = agot_all_hairstyles
+				accessory = male_hair_custom_08
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_male_hair_custom_08
+				age > 4
+			}
+		}
+	}
+	trait_male_hair_custom_09 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = agot_all_hairstyles
+				accessory = male_hair_custom_09
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_male_hair_custom_09
+				age > 4
+			}
+		}
+	}
+	trait_male_hair_custom_10 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = agot_all_hairstyles
+				accessory = male_hair_custom_10
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_male_hair_custom_10
+				age > 4
+			}
+		}
+	}
+	trait_male_hair_custom_10_1 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = agot_all_hairstyles
+				accessory = male_hair_custom_10_1
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_male_hair_custom_10_1
+				age > 4
+			}
+		}
+	}
+	trait_male_hair_custom_10_2 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = agot_all_hairstyles
+				accessory = male_hair_custom_10_2
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_male_hair_custom_10_2
+				age > 4
+			}
+		}
+	}
+	trait_male_hair_custom_11 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = agot_all_hairstyles
+				accessory = male_hair_custom_11
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_male_hair_custom_11
+				age > 4
+			}
+		}
+	}
+	trait_male_hair_custom_12 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = agot_all_hairstyles
+				accessory = male_hair_custom_12
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_male_hair_custom_12
+				age > 4
+			}
+		}
+	}
+	trait_male_hair_custom_12_no_dye = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = agot_all_hairstyles
+				accessory = male_hair_custom_12_no_dye
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_male_hair_custom_12_no_dye
+				age > 4
+			}
+		}
+	}
+	trait_male_hair_custom_13 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = agot_all_hairstyles
+				accessory = male_hair_custom_13
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_male_hair_custom_13
+				age > 4
+			}
+		}
+	}
+	trait_male_hair_custom_14 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = agot_all_hairstyles
+				accessory = male_hair_custom_14
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_male_hair_custom_14
+				age > 4
+			}
+		}
+	}
+	trait_male_hair_custom_15 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = agot_all_hairstyles
+				accessory = male_hair_custom_15
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_male_hair_custom_15
+				age > 4
+			}
+		}
+	}
+	trait_male_hair_custom_16 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = agot_all_hairstyles
+				accessory = male_hair_custom_16
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_male_hair_custom_16
+				age > 4
+			}
+		}
+	}
+	trait_male_hair_custom_17 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = agot_all_hairstyles
+				accessory = male_hair_custom_17
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_male_hair_custom_17
+				age > 4
+			}
+		}
+	}
+	trait_male_hair_custom_18 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = agot_all_hairstyles
+				accessory = male_hair_custom_18
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_male_hair_custom_18
+				age > 4
+			}
+		}
+	}
+	trait_male_hair_custom_19 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = agot_all_hairstyles
+				accessory = male_hair_custom_19
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_male_hair_custom_19
+				age > 4
+			}
+		}
+	}
+	trait_male_hair_custom_20 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = agot_all_hairstyles
+				accessory = male_hair_custom_20
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_male_hair_custom_20
+				age > 4
+			}
+		}
+	}
+	trait_male_hair_custom_21 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = agot_all_hairstyles
+				accessory = male_hair_custom_21
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_male_hair_custom_21
+				age > 4
+			}
+		}
+	}
+	trait_male_hair_custom_22 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = agot_all_hairstyles
+				accessory = male_hair_custom_22
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_male_hair_custom_22
+				age > 4
+			}
+		}
+	}
+	trait_male_hair_custom_23 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = agot_all_hairstyles
+				accessory = male_hair_custom_23
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_male_hair_custom_23
+				age > 4
+			}
+		}
+	}
+	trait_male_valyrian_braid_01 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = agot_all_hairstyles
+				accessory = male_valyrian_braid_01
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_male_valyrian_braid_01
+				age > 4
+			}
+		}
+	}
+	trait_male_valyrian_braid_02 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = agot_all_hairstyles
+				accessory = male_valyrian_braid_02
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_male_valyrian_braid_02
+				age > 4
+			}
+		}
+	}
+	trait_male_valyrian_loose_hair_01 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = agot_all_hairstyles
+				accessory = male_valyrian_loose_hair_01
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_male_valyrian_loose_hair_01
+				age > 4
+			}
+		}
+	}
+	trait_male_valyrian_loose_hair_02 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = agot_all_hairstyles
+				accessory = male_valyrian_loose_hair_02
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_male_valyrian_loose_hair_02
+				age > 4
+			}
+		}
+	}
+	trait_male_hair_the_brave_cut_01 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = agot_all_hairstyles
+				accessory = male_hair_the_brave_cut_01
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_male_hair_the_brave_cut_01
+				age > 4
+			}
+		}
+	}
+	trait_female_hair_western_01 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = female_hair_western_01
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_female_hair_western_01
+				age > 4
+			}
+		}
+	}
+	trait_female_hair_western_02 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = female_hair_western_02
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_female_hair_western_02
+				age > 4
+			}
+		}
+	}
+	trait_female_hair_western_02_disease = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = female_hair_western_02_disease
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_female_hair_western_02_disease
+				age > 4
+			}
+		}
+	}
+	trait_female_hair_western_03 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = western_hairstyles_straight
+				accessory = female_hair_western_03
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_female_hair_western_03
+				age > 4
+			}
+		}
+	}
+	trait_female_hair_western_04 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = female_hair_western_04
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_female_hair_western_04
+				age > 4
+			}
+		}
+	}
+	trait_female_hair_western_05 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = female_hair_western_05
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_female_hair_western_05
+				age > 4
+			}
+		}
+	}
+	trait_female_hair_western_05_disease = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = female_hair_western_05_disease
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_female_hair_western_05_disease
+				age > 4
+			}
+		}
+	}
+	trait_female_hair_western_06 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = female_hair_western_06
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_female_hair_western_06
+				age > 4
+			}
+		}
+	}
+	trait_female_hair_western_07 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = female_hair_western_07
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_female_hair_western_07
+				age > 4
+			}
+		}
+	}
+	trait_female_hair_western_08 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = female_hair_western_08
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_female_hair_western_08
+				age > 4
+			}
+		}
+	}
+	trait_female_hair_western_09 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = female_hair_western_09
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_female_hair_western_09
+				age > 4
+			}
+		}
+	}
+	trait_female_hair_western_10 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = female_hair_western_10
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_female_hair_western_10
+				age > 4
+			}
+		}
+	}
+	trait_female_hair_mena_01 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = female_hair_mena_01
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_female_hair_mena_01
+				age > 4
+			}
+		}
+	}
+	trait_female_hair_mena_02 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = female_hair_mena_02
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_female_hair_mena_02
+				age > 4
+			}
+		}
+	}
+	trait_female_hair_byzantine_01 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = female_hair_byzantine_01
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_female_hair_byzantine_01
+				age > 4
+			}
+		}
+	}
+	trait_female_hair_byzantine_02 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = female_hair_byzantine_02
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_female_hair_byzantine_02
+				age > 4
+			}
+		}
+	}
+	trait_female_hair_sub_saharan_01 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = female_hair_sub_saharan_01
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_female_hair_sub_saharan_01
+				age > 4
+			}
+		}
+	}
+	trait_female_hair_sub_saharan_01_disease = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = female_hair_sub_saharan_01_disease
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_female_hair_sub_saharan_01_disease
+				age > 4
+			}
+		}
+	}
+	trait_female_hair_sub_saharan_02 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = female_hair_sub_saharan_02
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_female_hair_sub_saharan_02
+				age > 4
+			}
+		}
+	}
+	trait_female_hair_sub_saharan_03 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = female_hair_sub_saharan_03
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_female_hair_sub_saharan_03
+				age > 4
+			}
+		}
+	}
+	trait_female_hair_sub_saharan_03_disease = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = female_hair_sub_saharan_03_disease
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_female_hair_sub_saharan_03_disease
+				age > 4
+			}
+		}
+	}
+	trait_female_hair_rtt_01 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = female_hair_rtt_01
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_female_hair_rtt_01
+				age > 4
+			}
+		}
+	}
+	trait_female_hair_rtt_02 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = female_hair_rtt_02
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_female_hair_rtt_02
+				age > 4
+			}
+		}
+	}
+	trait_female_hair_rtt_02_milla = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = female_hair_rtt_02_milla
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_female_hair_rtt_02_milla
+				age > 4
+			}
+		}
+	}
+	trait_female_hair_indian_01 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = female_hair_indian_01
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_female_hair_indian_01
+				age > 4
+			}
+		}
+	}
+	trait_female_hair_indian_02 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = female_hair_indian_02
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_female_hair_indian_02
+				age > 4
+			}
+		}
+	}
+	trait_female_hair_indian_03 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = female_hair_indian_03
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_female_hair_indian_03
+				age > 4
+			}
+		}
+	}
+	trait_female_hair_indian_03_disease = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = female_hair_indian_03_disease
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_female_hair_indian_03_disease
+				age > 4
+			}
+		}
+	}
+	trait_female_hair_northern_01 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = female_hair_northern_01
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_female_hair_northern_01
+				age > 4
+			}
+		}
+	}
+	trait_female_hair_northern_02 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = female_hair_northern_02
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_female_hair_northern_02
+				age > 4
+			}
+		}
+	}
+	trait_female_hair_northern_03 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = female_hair_northern_03
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_female_hair_northern_03
+				age > 4
+			}
+		}
+	}
+	trait_female_hair_steppe_01 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = female_hair_steppe_01
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_female_hair_steppe_01
+				age > 4
+			}
+		}
+	}
+	trait_female_hair_steppe_02 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = female_hair_steppe_02
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_female_hair_steppe_02
+				age > 4
+			}
+		}
+	}
+	trait_female_hair_steppe_02_disease = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = female_hair_steppe_02_disease
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_female_hair_steppe_02_disease
+				age > 4
+			}
+		}
+	}
+	trait_female_hair_fp1_01 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = female_hair_fp1_01
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_female_hair_fp1_01
+				age > 4
+			}
+		}
+	}
+	trait_female_hair_fp1_02 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = female_hair_fp1_02
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_female_hair_fp1_02
+				age > 4
+			}
+		}
+	}
+	trait_female_hair_fp1_03 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = female_hair_fp1_03
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_female_hair_fp1_03
+				age > 4
+			}
+		}
+	}
+	trait_female_hair_fp1_04 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = female_hair_fp1_04
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_female_hair_fp1_04
+				age > 4
+			}
+		}
+	}
+	trait_female_hair_fp1_05 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = female_hair_fp1_05
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_female_hair_fp1_05
+				age > 4
+			}
+		}
+	}
+	trait_female_hair_fp1_06 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = female_hair_fp1_06
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_female_hair_fp1_06
+				age > 4
+			}
+		}
+	}
+	trait_female_hair_fp2_iberian_muslim_01 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = female_hair_fp2_iberian_muslim_01
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_female_hair_fp2_iberian_muslim_01
+				age > 4
+			}
+		}
+	}
+	trait_female_hair_fp2_iberian_muslim_01_common = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = female_hair_fp2_iberian_muslim_01_common
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_female_hair_fp2_iberian_muslim_01_common
+				age > 4
+			}
+		}
+	}
+	trait_female_hair_fp2_iberian_muslim_02 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = female_hair_fp2_iberian_muslim_02
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_female_hair_fp2_iberian_muslim_02
+				age > 4
+			}
+		}
+	}
+	trait_female_hair_fp2_iberian_muslim_02_common = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = female_hair_fp2_iberian_muslim_02_common
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_female_hair_fp2_iberian_muslim_02_common
+				age > 4
+			}
+		}
+	}
+	trait_female_hair_fp2_iberian_muslim_03 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = female_hair_fp2_iberian_muslim_03
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_female_hair_fp2_iberian_muslim_03
+				age > 4
+			}
+		}
+	}
+	trait_female_hair_fp2_iberian_muslim_03_common = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = female_hair_fp2_iberian_muslim_03_common
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_female_hair_fp2_iberian_muslim_03_common
+				age > 4
+			}
+		}
+	}
+	trait_female_hair_fp2_iberian_christian_01 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = female_hair_fp2_iberian_christian_01
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_female_hair_fp2_iberian_christian_01
+				age > 4
+			}
+		}
+	}
+	trait_female_hair_fp2_iberian_christian_02 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = female_hair_fp2_iberian_christian_02
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_female_hair_fp2_iberian_christian_02
+				age > 4
+			}
+		}
+	}
+	trait_female_hair_fp2_iberian_christian_03 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = female_hair_fp2_iberian_christian_03
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_female_hair_fp2_iberian_christian_03
+				age > 4
+			}
+		}
+	}
+	trait_f_hair_fp3_iranian_01 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = f_hair_fp3_iranian_01
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_f_hair_fp3_iranian_01
+				age > 4
+			}
+		}
+	}
+	trait_f_hair_fp3_iranian_01_common = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = f_hair_fp3_iranian_01_common
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_f_hair_fp3_iranian_01_common
+				age > 4
+			}
+		}
+	}
+	trait_f_hair_fp3_iranian_02 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = f_hair_fp3_iranian_02
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_f_hair_fp3_iranian_02
+				age > 4
+			}
+		}
+	}
+	trait_f_hair_fp3_iranian_02_common = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = f_hair_fp3_iranian_02_common
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_f_hair_fp3_iranian_02_common
+				age > 4
+			}
+		}
+	}
+	trait_f_hair_fp3_iranian_03 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = f_hair_fp3_iranian_03
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_f_hair_fp3_iranian_03
+				age > 4
+			}
+		}
+	}
+	trait_f_hair_fp3_iranian_03_common = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = f_hair_fp3_iranian_03_common
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_f_hair_fp3_iranian_03_common
+				age > 4
+			}
+		}
+	}
+	trait_f_hair_ep2_western_01 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = f_hair_ep2_western_01
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_f_hair_ep2_western_01
+				age > 4
+			}
+		}
+	}
+	trait_f_hair_ep2_western_02 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = f_hair_ep2_western_02
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_f_hair_ep2_western_02
+				age > 4
+			}
+		}
+	}
+	trait_f_hair_fp4_disease_01 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = f_hair_fp4_disease_01
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_f_hair_fp4_disease_01
+				age > 4
+			}
+		}
+	}
+	trait_f_hair_ep3_byzantine_01 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = f_hair_ep3_byzantine_01
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_f_hair_ep3_byzantine_01
+				age > 4
+			}
+		}
+	}
+	trait_f_hair_ep3_byzantine_02 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = f_hair_ep3_byzantine_02
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_f_hair_ep3_byzantine_02
+				age > 4
+			}
+		}
+	}
+	trait_f_hair_ep3_byzantine_03 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = f_hair_ep3_byzantine_03
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_f_hair_ep3_byzantine_03
+				age > 4
+			}
+		}
+	}
+	trait_f_hair_ep3_byzantine_04 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = f_hair_ep3_byzantine_04
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_f_hair_ep3_byzantine_04
+				age > 4
+			}
+		}
+	}
+	trait_f_hair_ep3_byzantine_01_common = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = f_hair_ep3_byzantine_01_common
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_f_hair_ep3_byzantine_01_common
+				age > 4
+			}
+		}
+	}
+	trait_f_hair_ep3_byzantine_02_common = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = f_hair_ep3_byzantine_02_common
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_f_hair_ep3_byzantine_02_common
+				age > 4
+			}
+		}
+	}
+	trait_f_hair_ep3_byzantine_03_common = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = f_hair_ep3_byzantine_03_common
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_f_hair_ep3_byzantine_03_common
+				age > 4
+			}
+		}
+	}
+	trait_f_hair_ep3_byzantine_04_common = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = f_hair_ep3_byzantine_04_common
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_f_hair_ep3_byzantine_04_common
+				age > 4
+			}
+		}
+	}
+	trait_f_hair_sp4_western_01 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = f_hair_sp4_western_01
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_f_hair_sp4_western_01
+				age > 4
+			}
+		}
+	}
+	trait_f_hair_sp4_mena_01 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = f_hair_sp4_mena_01
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_f_hair_sp4_mena_01
+				age > 4
+			}
+		}
+	}
+	trait_f_hair_mpo_mongol_01 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = f_hair_mpo_mongol_01
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_f_hair_mpo_mongol_01
+				age > 4
+			}
+		}
+	}
+	trait_f_hair_mpo_mongol_02 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = f_hair_mpo_mongol_02
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_f_hair_mpo_mongol_02
+				age > 4
+			}
+		}
+	}
+	trait_f_hair_mpo_mongol_03 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = f_hair_mpo_mongol_03
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_f_hair_mpo_mongol_03
+				age > 4
+			}
+		}
+	}
+	trait_f_hair_tgp_chinese_01 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = f_hair_tgp_chinese_01
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_f_hair_tgp_chinese_01
+				age > 4
+			}
+		}
+	}
+	trait_f_hair_tgp_chinese_01_common = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = f_hair_tgp_chinese_01_common
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_f_hair_tgp_chinese_01_common
+				age > 4
+			}
+		}
+	}
+	trait_f_hair_tgp_chinese_02 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = f_hair_tgp_chinese_02
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_f_hair_tgp_chinese_02
+				age > 4
+			}
+		}
+	}
+	trait_f_hair_tgp_chinese_02_common = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = f_hair_tgp_chinese_02_common
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_f_hair_tgp_chinese_02_common
+				age > 4
+			}
+		}
+	}
+	trait_f_hair_tgp_chinese_03 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = f_hair_tgp_chinese_03
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_f_hair_tgp_chinese_03
+				age > 4
+			}
+		}
+	}
+	trait_f_hair_tgp_chinese_03_common = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = f_hair_tgp_chinese_03_common
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_f_hair_tgp_chinese_03_common
+				age > 4
+			}
+		}
+	}
+	trait_f_hair_tgp_chinese_04 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = f_hair_tgp_chinese_04
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_f_hair_tgp_chinese_04
+				age > 4
+			}
+		}
+	}
+	trait_f_hair_tgp_chinese_04_common = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = f_hair_tgp_chinese_04_common
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_f_hair_tgp_chinese_04_common
+				age > 4
+			}
+		}
+	}
+	trait_f_hair_tgp_chinese_05 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = f_hair_tgp_chinese_05
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_f_hair_tgp_chinese_05
+				age > 4
+			}
+		}
+	}
+	trait_f_hair_tgp_chinese_05_common = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = f_hair_tgp_chinese_05_common
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_f_hair_tgp_chinese_05_common
+				age > 4
+			}
+		}
+	}
+	trait_f_hair_tgp_japanese_01 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = f_hair_tgp_japanese_01
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_f_hair_tgp_japanese_01
+				age > 4
+			}
+		}
+	}
+	trait_f_hair_tgp_japanese_02 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = f_hair_tgp_japanese_02
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_f_hair_tgp_japanese_02
+				age > 4
+			}
+		}
+	}
+	trait_f_hair_tgp_japanese_03 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = f_hair_tgp_japanese_03
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_f_hair_tgp_japanese_03
+				age > 4
+			}
+		}
+	}
+	trait_f_hair_tgp_japanese_04 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = f_hair_tgp_japanese_04
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_f_hair_tgp_japanese_04
+				age > 4
+			}
+		}
+	}
+	trait_f_hair_tgp_sea_01 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = f_hair_tgp_sea_01
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_f_hair_tgp_sea_01
+				age > 4
+			}
+		}
+	}
+	trait_f_hair_tgp_sea_01_common = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = f_hair_tgp_sea_01_common
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_f_hair_tgp_sea_01_common
+				age > 4
+			}
+		}
+	}
+	trait_f_hair_tgp_sea_02 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = f_hair_tgp_sea_02
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_f_hair_tgp_sea_02
+				age > 4
+			}
+		}
+	}
+	trait_f_hair_tgp_sea_02_common = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = f_hair_tgp_sea_02_common
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_f_hair_tgp_sea_02_common
+				age > 4
+			}
+		}
+	}
+	trait_f_hair_tgp_sea_03 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = f_hair_tgp_sea_03
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_f_hair_tgp_sea_03
+				age > 4
+			}
+		}
+	}
+	trait_f_hair_tgp_sea_03_common = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = f_hair_tgp_sea_03_common
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_f_hair_tgp_sea_03_common
+				age > 4
+			}
+		}
+	}
+	trait_f_hair_tgp_sea_04 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = f_hair_tgp_sea_04
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_f_hair_tgp_sea_04
+				age > 4
+			}
+		}
+	}
+	trait_female_hair_western_baby_01 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = all_hairstyles
+				accessory = female_hair_western_baby_01
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_female_hair_western_baby_01
+				age > 4
+			}
+		}
+	}
+	trait_female_hair_custom_01 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = agot_all_hairstyles
+				accessory = female_hair_custom_01
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_female_hair_custom_01
+				age > 4
+			}
+		}
+	}
+	trait_female_hair_custom_02 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = agot_all_hairstyles
+				accessory = female_hair_custom_02
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_female_hair_custom_02
+				age > 4
+			}
+		}
+	}
+	trait_female_hair_custom_03 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = agot_all_hairstyles
+				accessory = female_hair_custom_03
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_female_hair_custom_03
+				age > 4
+			}
+		}
+	}
+	trait_female_hair_custom_04 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = agot_all_hairstyles
+				accessory = female_hair_custom_04
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_female_hair_custom_04
+				age > 4
+			}
+		}
+	}
+	trait_female_hair_custom_05 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = agot_all_hairstyles
+				accessory = female_hair_custom_05
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_female_hair_custom_05
+				age > 4
+			}
+		}
+	}
+	trait_female_hair_custom_06 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = agot_all_hairstyles
+				accessory = female_hair_custom_06
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_female_hair_custom_06
+				age > 4
+			}
+		}
+	}
+	trait_female_hair_custom_07 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = agot_all_hairstyles
+				accessory = female_hair_custom_07
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_female_hair_custom_07
+				age > 4
+			}
+		}
+	}
+	trait_female_hair_custom_08 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = agot_all_hairstyles
+				accessory = female_hair_custom_08
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_female_hair_custom_08
+				age > 4
+			}
+		}
+	}
+	trait_female_hair_custom_09 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = agot_all_hairstyles
+				accessory = female_hair_custom_09
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_female_hair_custom_09
+				age > 4
+			}
+		}
+	}
+	trait_female_hair_custom_10 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = agot_all_hairstyles
+				accessory = female_hair_custom_10
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_female_hair_custom_10
+				age > 4
+			}
+		}
+	}
+	trait_female_hair_custom_11 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = agot_all_hairstyles
+				accessory = female_hair_custom_11
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_female_hair_custom_11
+				age > 4
+			}
+		}
+	}
+	trait_female_hair_custom_12 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = agot_all_hairstyles
+				accessory = female_hair_custom_12
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_female_hair_custom_12
+				age > 4
+			}
+		}
+	}
+	trait_female_hair_custom_13 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = agot_all_hairstyles
+				accessory = female_hair_custom_13
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_female_hair_custom_13
+				age > 4
+			}
+		}
+	}
+	trait_female_hair_custom_14 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = agot_all_hairstyles
+				accessory = female_hair_custom_14
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_female_hair_custom_14
+				age > 4
+			}
+		}
+	}
+	trait_female_hair_custom_15 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = agot_all_hairstyles
+				accessory = female_hair_custom_15
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_female_hair_custom_15
+				age > 4
+			}
+		}
+	}
+	trait_female_hair_custom_16 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = agot_all_hairstyles
+				accessory = female_hair_custom_16
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_female_hair_custom_16
+				age > 4
+			}
+		}
+	}
+	trait_female_hair_custom_17 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = agot_all_hairstyles
+				accessory = female_hair_custom_17
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_female_hair_custom_17
+				age > 4
+			}
+		}
+	}
+	trait_female_hair_custom_18 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = agot_all_hairstyles
+				accessory = female_hair_custom_18
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_female_hair_custom_18
+				age > 4
+			}
+		}
+	}
+	trait_female_hair_custom_19 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = agot_all_hairstyles
+				accessory = female_hair_custom_19
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_female_hair_custom_19
+				age > 4
+			}
+		}
+	}
+	trait_female_hair_custom_21 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = agot_all_hairstyles
+				accessory = female_hair_custom_21
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_female_hair_custom_21
+				age > 4
+			}
+		}
+	}
+	trait_female_hair_custom_22 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = agot_all_hairstyles
+				accessory = female_hair_custom_22
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_female_hair_custom_22
+				age > 4
+			}
+		}
+	}
+	trait_female_hair_custom_23 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = agot_all_hairstyles
+				accessory = female_hair_custom_23
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_female_hair_custom_23
+				age > 4
+			}
+		}
+	}
+	trait_female_hair_custom_24 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = agot_all_hairstyles
+				accessory = female_hair_custom_24
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_female_hair_custom_24
+				age > 4
+			}
+		}
+	}
+	trait_female_hair_custom_25 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = agot_all_hairstyles
+				accessory = female_hair_custom_25
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_female_hair_custom_25
+				age > 4
+			}
+		}
+	}
+	trait_female_hair_custom_26 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = agot_all_hairstyles
+				accessory = female_hair_custom_26
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_female_hair_custom_26
+				age > 4
+			}
+		}
+	}
+	trait_female_hair_custom_27 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = agot_all_hairstyles
+				accessory = female_hair_custom_27
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_female_hair_custom_27
+				age > 4
+			}
+		}
+	}
+	trait_female_hair_custom_27_1 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = agot_all_hairstyles
+				accessory = female_hair_custom_27_1
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_female_hair_custom_27_1
+				age > 4
+			}
+		}
+	}
+	trait_female_hair_custom_27_2 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = agot_all_hairstyles
+				accessory = female_hair_custom_27_2
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_female_hair_custom_27_2
+				age > 4
+			}
+		}
+	}
+	trait_female_hair_custom_36 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = agot_all_hairstyles
+				accessory = female_hair_custom_36
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_female_hair_custom_36
+				age > 4
+			}
+		}
+	}
+	trait_female_hair_custom_37 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = agot_all_hairstyles
+				accessory = female_hair_custom_37
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_female_hair_custom_37
+				age > 4
+			}
+		}
+	}
+	trait_female_hair_custom_38 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = agot_all_hairstyles
+				accessory = female_hair_custom_38
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_female_hair_custom_38
+				age > 4
+			}
+		}
+	}
+	trait_female_hair_custom_39 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = agot_all_hairstyles
+				accessory = female_hair_custom_39
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_female_hair_custom_39
+				age > 4
+			}
+		}
+	}
+	trait_female_hair_custom_40 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = agot_all_hairstyles
+				accessory = female_hair_custom_40
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_female_hair_custom_40
+				age > 4
+			}
+		}
+	}
+	trait_female_hair_custom_41 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = agot_all_hairstyles
+				accessory = female_hair_custom_41
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_female_hair_custom_41
+				age > 4
+			}
+		}
+	}
+	trait_female_hair_custom_41_1 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = agot_all_hairstyles
+				accessory = female_hair_custom_41_1
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_female_hair_custom_41_1
+				age > 4
+			}
+		}
+	}
+	trait_female_hair_custom_42 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = agot_all_hairstyles
+				accessory = female_hair_custom_42
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_female_hair_custom_42
+				age > 4
+			}
+		}
+	}
+	trait_female_hair_custom_43 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = agot_all_hairstyles
+				accessory = female_hair_custom_43
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_female_hair_custom_43
+				age > 4
+			}
+		}
+	}
+	trait_female_hair_custom_44 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = agot_all_hairstyles
+				accessory = female_hair_custom_44
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_female_hair_custom_44
+				age > 4
+			}
+		}
+	}
+	trait_female_hair_custom_45 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = agot_all_hairstyles
+				accessory = female_hair_custom_45
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_female_hair_custom_45
+				age > 4
+			}
+		}
+	}
+	trait_fem_dragonrider_hair_01 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = agot_all_hairstyles
+				accessory = fem_dragonrider_hair_01
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_fem_dragonrider_hair_01
+				age > 4
+			}
+		}
+	}
+	trait_fem_valyrian_large_braid_01 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = agot_all_hairstyles
+				accessory = fem_valyrian_large_braid_01
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_fem_valyrian_large_braid_01
+				age > 4
+			}
+		}
+	}
+	trait_f_hair_byz_short_hair_01 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = agot_all_hairstyles
+				accessory = f_hair_byz_short_hair_01
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_f_hair_byz_short_hair_01
+				age > 4
+			}
+		}
+	}
+	trait_female_hair_agot_valyrian_princess = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = agot_all_hairstyles
+				accessory = female_hair_agot_valyrian_princess
+				type = female
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_inactive_trait = hair_trait_female_hair_agot_valyrian_princess
+				age > 4
+			}
+		}
+	}
+}
