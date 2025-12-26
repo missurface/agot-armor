@@ -1,0 +1,24 @@
+pdxmesh = {
+	name = "female_headgear_secular_valyrian_war_05_mesh"
+	file = "female_headgear_secular_valyrian_war_05.mesh"
+
+	blend_shape = { id = "female_headgear_secular_valyrian_war_05_bs_fat"			type = "female_headgear_secular_valyrian_war_05_bs_fat.mesh" }
+
+	meshsettings = {
+		name = "female_headgear_secular_valyrian_war_05Shape"
+		index = 0
+		texture_diffuse = "maelys_sallet_diffuse.dds"
+		texture_normal = "maelys_sallet_normal.dds"
+		texture_specular = "maelys_sallet_properties.dds"
+		shader = "portrait_attachment"
+		shader_file = "gfx/FX/jomini/portrait.shader"
+	}
+}
+
+entity = {
+	name = "female_headgear_secular_valyrian_war_05_entity"
+	pdxmesh = "female_headgear_secular_valyrian_war_05_mesh"
+
+	attribute = { name = "bs_fat_1"                   blend_shape = "female_headgear_secular_valyrian_war_05_bs_fat" }
+
+}
